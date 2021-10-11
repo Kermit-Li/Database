@@ -1,1 +1,0 @@
-SELECT DISTINCT ShipName , SUBSTR(ShipName,0,instr(ShipName,'-'))FROM "Order" WHERE ShipName LIKE '%-%'ORDER BY ShipName;
