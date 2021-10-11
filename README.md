@@ -5,5 +5,5 @@ Database homework
 
 # 作业
 已完成
-## primerone
-## Homework1(northwind.db) placeholder为sql代码，screen_cut为运行截图
+## Homework1(northwind.db) 
+>### 其中placeholder为sql代码，screen_cut为运行截图
