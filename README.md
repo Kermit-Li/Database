@@ -5,6 +5,6 @@ Database homework
 
 # 作业
 已完成
-## primerone in branch Primeone
+## primerone in branch Primerone
 ## Homework1(northwind.db) in branch Homework1
 ## Homework2  in branch Homework2
